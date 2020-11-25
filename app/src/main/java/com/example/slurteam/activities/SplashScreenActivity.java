@@ -1,4 +1,4 @@
-package com.example.slurteam;
+package com.example.slurteam.activities;
 
 import android.os.Bundle;
 import android.view.WindowManager;
@@ -6,6 +6,8 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.slurteam.R;
 
 public class SplashScreenActivity extends AppCompatActivity {
 

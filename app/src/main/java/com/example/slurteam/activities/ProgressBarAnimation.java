@@ -1,4 +1,4 @@
-package com.example.slurteam;
+package com.example.slurteam.activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -30,7 +30,7 @@ public class ProgressBarAnimation extends Animation {
         textView.setText((int) value + " %");
 
         if (value == to) {
-            context.startActivity(new Intent(context, SlideActivity.class));
+            context.startActivity(new Intent(context, com.example.slurteam.activities.MainActivity.class));
         }
     }
 }
