@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity implements MainAdapter.onSel
     ModelMain mdlMainMenu;
     List<ModelMain> lsMainMenu = new ArrayList<>();
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -95,4 +97,5 @@ public class MainActivity extends AppCompatActivity implements MainAdapter.onSel
         }
         win.setAttributes(winParams);
     }
+
 }
