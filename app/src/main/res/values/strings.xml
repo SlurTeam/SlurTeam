@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">SlurTeam</string>
+
+    <string name="title1">Kota Purwakarta</string>
+    <string name="desc1">Purwakarta adalah salah satu kecamatan di Kabupaten Purwakarta, Provinsi Jawa Barat, Indonesia. Pusat pemerintahan Kabupaten Purwakarta berada di Kecamatan Purwakarta. Kecamatan ini memiliki penduduk terpadat daripada yang lainnya, dan menurut data sensus penduduk tahun 2010 penduduk kecamatan ini sebanyak 165.447 jiwa.
+Dikota Purwakarta ini sangat banyak objek wisata yang dapat dikunjungi. Contohnya waduk jatiluhur, Kuya Maranggi Waterpark, Curug Cipurut, dan lain lain</string>
+    <string name="title2">Sejarah Singkat Purwakarta</string>
+    <string name="desc2">Pada tahun 1819 - 1826, Pemerintahan Belanda melepaskan diri dari Pemerintahan Inggris. Peristiwa ini ditandai dengan pengembalian wewenang para Bupati kepada Gubernur Jenderal Van Der Capellen. Kabupaten Karawang yang sebelumnya berada di bawah Pemerintah Inggris diaktifkan kembali oleh Bupati R.A.A. Surianata, setelah itu, ia memilih Wanayasa sebagai Ibukota Kabupaten. pada tahun 1830, ibu kota dipindahkan dari Wanayasa ke Sindangkasih, yang kemudian dinamakan "Purwakarta" Peristiwa ini diresmikan pada tanggal 20 Juli 1831 . tanggal ini diperingati sebagai hari jadi Purwakarta. Salah satu asal usul Nama Purwakarta berasal dari bahasa sansekerta yaitu Purwa berarti yang pertama, dan karta berarti aman dan tertib atau ramai.</string>
+    <string name="title3">Salah satu Objek wisata Terkenal di Purwakarta</string>
+    <string name="desc3"><b>Tanjakan Cinta</b> merupakan jalan setapak menuju bukit, dengan kemiringan sekitar 45 derajat. Letaknya tepat setelah Ranu Kumbolo menuju Oro-oro Ombo. Saat melewati Tanjakan Cinta, para pendaki dihimbau untuk tidak menoleh ke belakang. Kalau menoleh, konon Anda akan putus cinta!</string>
+    <string name="alarm_on_toast">Notifikasi Aktif!</string>
+    <string name="alarm_off_toast">Notifikasi Non Aktif!</string>
+    <string name="notification_title">  Wisata </string>
+    <string name="notification_text">Pantau Terus Wisata Dengan Berita Terbaru</string>
+    <string name="alarm_off">off</string>
+    <string name="alarm_on"> on</string>
 </resources>
+
+
+
