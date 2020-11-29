@@ -27,7 +27,8 @@
                 android:layout_margin="5dp"
                 android:adjustViewBounds="true"
                 android:cropToPadding="true"
-                android:maxHeight="50dp" />
+                android:maxHeight="50dp"
+                android:layout_alignParentLeft="true" />
 
             <TextView
                 android:id="@+id/tvMainData"
@@ -45,7 +46,8 @@
                 android:layout_alignParentEnd="true"
                 android:layout_margin="5dp"
                 android:src="@drawable/ic_arrow"
-                android:tint="@color/colorPrimary" />
+                android:layout_alignParentRight="true"
+                app:tint="@color/colorPrimary" />
 
         </RelativeLayout>
 
