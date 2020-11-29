@@ -6,6 +6,8 @@
     <color name="colorWhite">#ffff</color>
     <color name="colorBlack">#121111</color>
     <color name="colorGrey">#676060</color>
+    <color name="colorPrimary1">#FAC110</color>
+    <color name="colorPrimaryDark1">#FAC110</color>
 
     //Button Color
     <color name="Default">#FAC110</color>
