@@ -22,11 +22,24 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
+                <ToggleButton
+                    android:id="@+id/alarmToggle"
+                    android:layout_width="62dp"
+                    android:layout_height="30dp"
+
+                    android:layout_marginStart="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/rounded_alarm"
+                    android:button="@drawable/ic_notif"
+                    android:textColor="#ffff"
+                    android:textOff="@string/alarm_off"
+                    android:textOn="@string/alarm_on" />
+
                 <androidx.recyclerview.widget.RecyclerView
                     android:id="@+id/rvMainMenu"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_margin="10dp" />
+                    android:layout_marginTop="40dp" />
 
             </RelativeLayout>
 

@@ -17,7 +17,8 @@
         android:background="@drawable/ic_categories"
         android:backgroundTint="@color/colorPrimaryDark"
         android:elevation="5dp"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_marginLeft="-10dp">
 
         <TextView
             android:id="@+id/tvKategori"
@@ -29,7 +30,9 @@
             android:padding="5dp"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
             android:textColor="@android:color/white"
-            android:textSize="12sp" />
+            android:textSize="12sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp" />
 
     </LinearLayout>
 

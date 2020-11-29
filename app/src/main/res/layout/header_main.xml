@@ -91,7 +91,8 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_marginStart="200dp"
-                app:cardCornerRadius="5dp">
+                app:cardCornerRadius="5dp"
+                android:layout_marginLeft="200dp">
 
                 <ImageView
                     android:layout_width="match_parent"
